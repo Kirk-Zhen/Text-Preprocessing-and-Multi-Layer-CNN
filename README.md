@@ -1,7 +1,8 @@
 # COMP 4107 Final Project
+# Effects of Text Pre-processing Methods on Text-Based Sentiment Analysis Problems
 -----------
 
-Name: Zijian Zhen (Kirk)  
+Name: Zijian Zhen (Kirk Zhen)  
 Student ID: 101087006  
 E-mail: zijianzhen@cmail.carleton.ca  
 
@@ -28,7 +29,7 @@ E-mail: zijianzhen@cmail.carleton.ca
 ### Files:
 * Files in `py` folder are `.py` python program for this project
 * Files in `notebook` folder are `.ipynb` Jupiter Notebook program for this project
-* Files in `data` folder contains the `.csv` raw data for this project
+* Raw data can be accessed at http://ai.stanford.edu/~amaas/data/sentiment/
 * `report.pdf` is the paper report for this project
 
 
