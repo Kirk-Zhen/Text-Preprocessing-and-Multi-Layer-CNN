@@ -19,7 +19,7 @@ E-mail: zijianzhen@cmail.carleton.ca
 |nltk|3.4.5
 |textblob|0.15.3
 
-### Please Check the report for detailed information about this project
+### Please check the report for detailed information about this project
 
 ### Notice:
 * Before you execute `.py` and `.ipynb` files, please make sure that the file path in the code is correct.
